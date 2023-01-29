@@ -28,10 +28,10 @@
 
 #
 
-# CONTATO:
+## CONTATO:
 ### E-mail: dideus24@gmail.com
 ### Cell number: (+55) 85997235817
 
 #
 #
-# Visit my portfolio, clicking here: https://mulbasilva.github.io/my_portfolio/
+## Visit my portfolio, clicking here: https://mulbasilva.github.io/my_portfolio/
