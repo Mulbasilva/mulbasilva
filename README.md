@@ -27,7 +27,7 @@
 
 ##
 
-## CONTATO:
+## CONTACT:
 ### E-mail: dideus24@gmail.com
 ### Cell number: (+55) 85997235817
 
