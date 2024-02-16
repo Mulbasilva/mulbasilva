@@ -1,6 +1,6 @@
 <!-- The three asterisk mean h3  -->
 # Hi, i'm Mulba 🖐🏿! 
-## Physics graduate, systems development technician and fullstack developer. I'm passionate about technology and people's education. Always excited to learn new things. Cheerful, hardworking and doesn't give up easily.
+## Degree in physics, systems development technician and fullstack developer. I'm passionate about technology and people's education. Always excited to learn new things. Cheerful, hardworking and doesn't give up easily.
 ## 
 #
 <!-- [![Name badge](here, put the button model link - badge)](here, put where it will be taken when clicked) -->
